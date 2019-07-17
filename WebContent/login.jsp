@@ -19,7 +19,7 @@
     <div class="container">
         <div class="form row">
             <div class="form-horizontal col-md-offset-3" id="login_form">
-                <h3 class="form-title">私人云音乐库平台</h3>
+                <h3 class="form-title">云音乐库平台</h3>
                 
                 <div class="col-md-9">
                 <form action="/MusicManagement/LoginServlet" method="post">
